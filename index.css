@@ -5,7 +5,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   background-color: #202225;
-  background-image: url("images/isotipo_naranjo.png");
+  background-image: url("images/isotipo.png");
   background-position: right bottom; /*Positioning*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
 }
